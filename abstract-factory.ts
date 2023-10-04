@@ -4,7 +4,7 @@
  * without specifying their concrete classes.
  */
 
-interface IButton {
+interface IButton  {
   push(): void;
 }
 
